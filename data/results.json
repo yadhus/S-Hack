@@ -1,1 +1,17 @@
-["https://stackoverflow.com/questions/20279484/how-to-access-the-correct-this-inside-a-callback","https://stackoverflow.com/questions/1190642/how-can-i-pass-a-parameter-to-a-settimeout-callback","https://stackoverflow.com/questions/626898/how-do-i-create-delegates-in-objective-c","https://stackoverflow.com/questions/22519784/how-do-i-convert-an-existing-callback-api-to-promises","https://stackoverflow.com/questions/824234/what-is-a-callback-function","https://stackoverflow.com/questions/6847697/how-to-return-value-from-an-asynchronous-callback-function","https://stackoverflow.com/questions/22539815/arent-promises-just-callbacks","https://stackoverflow.com/questions/3432257/difference-between-array-map-array-walk-and-array-filter","https://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o","https://stackoverflow.com/questions/939032/jquery-pass-more-parameters-into-callback","https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function","https://stackoverflow.com/questions/2778522/rails-update-attribute-vs-update-attributes","https://stackoverflow.com/questions/2298242/callback-functions-in-c","https://stackoverflow.com/questions/5010288/how-to-make-a-function-wait-until-a-callback-has-been-called-using-node-js","https://stackoverflow.com/questions/5883635/how-to-remove-all-callbacks-from-a-handler"]
+[
+    "https://stackoverflow.com/questions/20279484/how-to-access-the-correct-this-inside-a-callback",
+    "https://stackoverflow.com/questions/1190642/how-can-i-pass-a-parameter-to-a-settimeout-callback",
+    "https://stackoverflow.com/questions/626898/how-do-i-create-delegates-in-objective-c",
+    "https://stackoverflow.com/questions/22519784/how-do-i-convert-an-existing-callback-api-to-promises",
+    "https://stackoverflow.com/questions/824234/what-is-a-callback-function",
+    "https://stackoverflow.com/questions/6847697/how-to-return-value-from-an-asynchronous-callback-function",
+    "https://stackoverflow.com/questions/22539815/arent-promises-just-callbacks",
+    "https://stackoverflow.com/questions/3432257/difference-between-array-map-array-walk-and-array-filter",
+    "https://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o",
+    "https://stackoverflow.com/questions/939032/jquery-pass-more-parameters-into-callback",
+    "https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function",
+    "https://stackoverflow.com/questions/2778522/rails-update-attribute-vs-update-attributes",
+    "https://stackoverflow.com/questions/2298242/callback-functions-in-c",
+    "https://stackoverflow.com/questions/5010288/how-to-make-a-function-wait-until-a-callback-has-been-called-using-node-js",
+    "https://stackoverflow.com/questions/5883635/how-to-remove-all-callbacks-from-a-handler"
+]
