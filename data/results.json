@@ -1,17 +1,1 @@
-[
-    "https://stackoverflow.com/questions/20279484/how-to-access-the-correct-this-inside-a-callback",
-    "https://stackoverflow.com/questions/1190642/how-can-i-pass-a-parameter-to-a-settimeout-callback",
-    "https://stackoverflow.com/questions/626898/how-do-i-create-delegates-in-objective-c",
-    "https://stackoverflow.com/questions/22519784/how-do-i-convert-an-existing-callback-api-to-promises",
-    "https://stackoverflow.com/questions/824234/what-is-a-callback-function",
-    "https://stackoverflow.com/questions/6847697/how-to-return-value-from-an-asynchronous-callback-function",
-    "https://stackoverflow.com/questions/22539815/arent-promises-just-callbacks",
-    "https://stackoverflow.com/questions/3432257/difference-between-array-map-array-walk-and-array-filter",
-    "https://stackoverflow.com/questions/9596276/how-to-explain-callbacks-in-plain-english-how-are-they-different-from-calling-o",
-    "https://stackoverflow.com/questions/939032/jquery-pass-more-parameters-into-callback",
-    "https://stackoverflow.com/questions/3458553/javascript-passing-parameters-to-a-callback-function",
-    "https://stackoverflow.com/questions/2778522/rails-update-attribute-vs-update-attributes",
-    "https://stackoverflow.com/questions/2298242/callback-functions-in-c",
-    "https://stackoverflow.com/questions/5010288/how-to-make-a-function-wait-until-a-callback-has-been-called-using-node-js",
-    "https://stackoverflow.com/questions/5883635/how-to-remove-all-callbacks-from-a-handler"
-]
+["https://stackoverflow.com/questions/890128/why-are-python-lambdas-useful","https://stackoverflow.com/questions/159720/what-is-the-naming-convention-in-python-for-variable-and-function-names","https://stackoverflow.com/questions/251464/how-to-get-a-function-name-as-a-string-in-python","https://stackoverflow.com/questions/8689964/why-do-some-functions-have-underscores-before-and-after-the-function-name","https://stackoverflow.com/questions/5067604/determine-function-name-from-within-that-function-without-using-traceback","https://stackoverflow.com/questions/427453/how-can-i-get-the-source-code-of-a-python-function","https://stackoverflow.com/questions/20309456/call-a-function-from-another-file-in-python","https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters","https://stackoverflow.com/questions/3987041/python-run-function-from-the-command-line","https://stackoverflow.com/questions/431866/ignore-python-multiple-return-value","https://stackoverflow.com/questions/1547145/defining-private-module-functions-in-python","https://stackoverflow.com/questions/237128/why-does-python-code-use-len-function-instead-of-a-length-method","https://stackoverflow.com/questions/2489669/function-parameter-types-in-python","https://stackoverflow.com/questions/9752958/how-can-i-return-two-values-from-a-function-in-python","https://stackoverflow.com/questions/803616/passing-functions-with-arguments-to-another-function-in-python"]
