@@ -1,0 +1,26 @@
+.form-control {
+    margin: 1.5rem 0;
+    width: 100%;
+}
+
+.form-control label, .form-control input, .form-control textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+
+}
+
+.form-control input, .form-control textarea {
+    border: 1px solid #a1a1a1;
+    font: inherit;
+    border-radius: 10px;
+    height: 2.5rem;
+    color: #00695c;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.26);
+}
+
+.form-control input:focus, .form-control textarea:focus {
+    outline: none !important;
+    border: 1.5px solid #00695c;
+    border-radius: 10px;
+}

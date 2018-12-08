@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #dcf1f0;
+}
+
+main {
+  padding: 1.5rem;
+  margin: 5rem auto;
+  width: 90%;
+}
+
+form {
+  display: inline;
+}
+
+.centered {
+  text-align: center;
+}
+
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.btn {
+  margin: auto;
+  display: block;
+  padding: 0.25rem 1rem;
+  text-decoration: none;
+  font: inherit;
+  border: 1px solid #00695c;
+  color: #00695c;
+  background: white;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.btn:hover, .btn:active {
+  background-color: #00695c;
+  color: white;
+}
+
+.result {
+  font-family: inherit;
+  color: #00695c;
+  font-size: 5rem;
+  margin: 2rem;
+  display: block;
+}
+
+
+.card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  padding: 1.2rem;
+  width: 100%;
+}
+
+.card__header,
+.card__content {
+  padding: 1rem;
+}
+
+.card__header h1,
+.card__content h1,
+.card__content h2,
+.card__content p {
+  margin: 0;
+}
+
+.heading{
+  text-align: center;
+  padding: 1rem 0 0 0;
+  font-size: 2rem;
+}

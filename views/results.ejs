@@ -1,0 +1,22 @@
+<%- include('includes/head.ejs') %>
+
+<body>
+    <div class="heading">
+        Search Results for
+        "<%= keyWord %>"
+    </div>
+    <main>
+        <div class="grid">
+            <% for (let i = 0; searchs.length > i; i++ ) { %>
+            <article class="card">
+                <div class="card__content">
+                    <div class="product__description">
+                        <a href="<%= searchs[i] %>" style="font-size: 1.2rem;">
+                            <%= searchs[i] %></a>
+                    </div>
+                </div>
+            </article>
+            <% } %>
+        </div>
+    </main>
+</body>
