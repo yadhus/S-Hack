@@ -1,5 +1,7 @@
 const path = require('path');
 
+var port = process.env.PORT || 8080;
+
 const express = require('express');
 const bodyParser = require('body-parser');
 
@@ -20,4 +22,6 @@ app.use('/', indexRoutes);
 
 // app.use(errorController.get404);
 
-app.listen(3000);
+app.listen(port, function() {
+    console.log('Our app is running on http://localhost:' + port);
+});
